@@ -46,14 +46,12 @@
   grid-template-rows: 1fr;
   color: #000;
   font-size: 15px;
-  font-style: normal;
   font-weight: 400;
   line-height: 20px;
 }
 .nav__left-block__menu a {
   color: #000;
   font-size: 15px;
-  font-style: normal;
   font-weight: 400;
   line-height: 20px;
 }
@@ -74,23 +72,23 @@
   padding: 0 34px;
   color: #000;
   text-align: center;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 600;
-  line-height: 45px;
   background-color: #FFF;
   border: 1px solid;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 45px;
 }
 .nav__right-block__tryit {
   padding: 0 22px 0 21px;
   background-color: #FF6336;
   color: #FFF;
   text-align: center;
+  border: none;
+  cursor: pointer;
   font-size: 16px;
-  font-style: normal;
   font-weight: 600;
   line-height: 45px;
-  border: none;
 }
 
 .first-block {
@@ -104,21 +102,19 @@
 }
 .first-block__item__heading {
   color: #000;
-  font-size: 60px;
-  font-style: normal;
-  font-weight: 600;
-  line-height: 70px;
   margin-bottom: 51px;
   font-family: GraphikLCG-Semibold, sans-serif;
+  font-size: 60px;
+  font-weight: 600;
+  line-height: 70px;
 }
 .first-block__item__text {
   color: #000;
-  font-size: 25px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 35px;
   max-width: 427px;
   margin-bottom: 51px;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 35px;
 }
 .first-block__item__btn-box {
   display: flex;
@@ -127,29 +123,27 @@
 }
 .first-block__item__btn-box__btn1 {
   padding: 0 41px 0 42px;
-  line-height: 60px;
   background: #FF6336;
   color: #FFF;
   text-align: center;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 600;
   border: none;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 60px;
 }
 .first-block__item__btn-box__btn2 {
   padding: 0 41px 0 42px;
-  line-height: 60px;
   color: #000;
   text-align: center;
+  cursor: pointer;
   font-size: 16px;
-  font-style: normal;
   font-weight: 600;
   line-height: 60px;
 }
 .first-block__item__span {
   color: #000;
   font-size: 15px;
-  font-style: normal;
   font-weight: 400;
   line-height: 25px;
 }
@@ -175,13 +169,12 @@
 }
 .second-block__heading {
   color: #000;
-  font-size: 50px;
-  font-style: normal;
-  font-weight: 600;
-  line-height: 60px;
   text-align: center;
   width: 60%;
   font-family: GraphikLCG-Semibold, sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 60px;
 }
 
 .third-block {
@@ -200,28 +193,25 @@
 .third-block__item__heading {
   width: 493px;
   color: #000;
+  font-family: GraphikLCG-Semibold, sans-serif;
   font-size: 50px;
-  font-style: normal;
   font-weight: 600;
   line-height: 60px;
-  font-family: GraphikLCG-Semibold, sans-serif;
 }
 .third-block__item__span {
   width: 491px;
   color: #000;
   font-size: 20px;
-  font-style: normal;
   font-weight: 400;
   line-height: 30px;
 }
 .third-block__item__link {
   width: 96px;
   color: #000;
+  cursor: pointer;
   font-size: 20px;
-  font-style: normal;
   font-weight: 600;
   line-height: 30px;
-  cursor: pointer;
 }
 
 .fourth-block {
@@ -240,28 +230,25 @@
 .fourth-block__item__heading {
   width: 379px;
   color: #000;
+  font-family: GraphikLCG-Semibold, sans-serif;
   font-size: 50px;
-  font-style: normal;
   font-weight: 600;
   line-height: 60px;
-  font-family: GraphikLCG-Semibold, sans-serif;
 }
 .fourth-block__item__span {
   width: 450px;
   color: #000;
   font-size: 20px;
-  font-style: normal;
   font-weight: 400;
   line-height: 30px;
 }
 .fourth-block__item__link {
   width: 96px;
   color: #000;
+  cursor: pointer;
   font-size: 20px;
-  font-style: normal;
   font-weight: 600;
   line-height: 30px;
-  cursor: pointer;
 }
 
 .fifth-block {
@@ -280,28 +267,25 @@
 .fifth-block__item__heading {
   width: 493px;
   color: #000;
+  font-family: GraphikLCG-Semibold, sans-serif;
   font-size: 50px;
-  font-style: normal;
   font-weight: 600;
   line-height: 60px;
-  font-family: GraphikLCG-Semibold, sans-serif;
 }
 .fifth-block__item__span {
   width: 491px;
   color: #000;
   font-size: 20px;
-  font-style: normal;
   font-weight: 400;
   line-height: 30px;
 }
 .fifth-block__item__link {
   width: 96px;
   color: #000;
+  cursor: pointer;
   font-size: 20px;
-  font-style: normal;
   font-weight: 600;
   line-height: 30px;
-  cursor: pointer;
 }
 
 .sixth-block {
@@ -321,28 +305,25 @@
 .sixth-block__item__heading {
   width: 379px;
   color: #000;
+  font-family: GraphikLCG-Semibold, sans-serif;
   font-size: 50px;
-  font-style: normal;
   font-weight: 600;
   line-height: 60px;
-  font-family: GraphikLCG-Semibold, sans-serif;
 }
 .sixth-block__item__span {
   width: 450px;
   color: #000;
   font-size: 20px;
-  font-style: normal;
   font-weight: 400;
   line-height: 30px;
 }
 .sixth-block__item__link {
   width: 96px;
   color: #000;
+  cursor: pointer;
   font-size: 20px;
-  font-style: normal;
   font-weight: 600;
   line-height: 30px;
-  cursor: pointer;
 }
 
 .eight-block {
@@ -352,12 +333,11 @@
 .eight-block__heading {
   color: #000;
   text-align: center;
-  font-size: 50px;
-  font-style: normal;
-  font-weight: 600;
-  line-height: 60px;
   padding: 120px 0px 58px;
   font-family: GraphikLCG-Semibold, sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 60px;
 }
 .eight-block__list {
   display: grid;
@@ -376,35 +356,32 @@
 }
 .eight-block__img {
   width: 160px;
-  height: 120px;
 }
 .eight-block__item__heading {
   color: #000;
   text-align: center;
+  font-family: GraphikLCG-Semibold, sans-serif;
   font-size: 25px;
-  font-style: normal;
   font-weight: 600;
   line-height: 35px;
-  font-family: GraphikLCG-Semibold, sans-serif;
 }
 .eight-block__item__span {
   color: #000;
   text-align: center;
+  max-width: 300px;
   font-size: 18px;
-  font-style: normal;
   font-weight: 400;
   line-height: 25px;
-  max-width: 300px;
 }
 
 .tenth-block {
   padding: 154px 75px 187px;
 }
 .tenth-block__head {
+  font-family: GraphikLCG-Semibold, sans-serif;
   font-size: 50px;
   font-weight: 600;
   line-height: 60px;
-  font-family: GraphikLCG-Semibold, sans-serif;
 }
 .tenth-block__box {
   display: grid;
@@ -429,23 +406,23 @@
   margin-bottom: 58px;
 }
 .tenth-block__box__item__heading {
+  margin-bottom: 34px;
+  font-family: GraphikLCG-Semibold, sans-serif;
   font-size: 30px;
   font-weight: 600;
   line-height: 40px;
-  margin-bottom: 34px;
-  font-family: GraphikLCG-Semibold, sans-serif;
 }
 .tenth-block__box__item__span {
+  margin-bottom: 25px;
   font-size: 20px;
   font-weight: 400;
   line-height: 30px;
-  margin-bottom: 25px;
 }
 .tenth-block__box__item__link {
+  text-decoration-line: underline;
   font-size: 20px;
   font-weight: 400;
   line-height: 30px;
-  text-decoration-line: underline;
 }
 
 .eleventh-block {
@@ -493,13 +470,11 @@
 }
 .twelfth-block__item__img {
   width: 176px;
-  height: 154px;
 }
 .twelfth-block__item__span {
   width: 461px;
   color: #000;
   font-size: 35px;
-  font-style: normal;
   font-weight: 600;
   line-height: 50px;
 }
@@ -525,21 +500,19 @@
 .thirteenth-block__heading {
   color: #000;
   text-align: center;
-  font-size: 65px;
-  font-style: normal;
-  font-weight: 600;
-  line-height: 75px;
   max-width: 790px;
   font-family: GraphikLCG-Semibold, sans-serif;
+  font-size: 65px;
+  font-weight: 600;
+  line-height: 75px;
 }
 .thirteenth-block__span {
   color: #000;
   text-align: center;
+  max-width: 539px;
   font-size: 25px;
-  font-style: normal;
   font-weight: 400;
   line-height: 30px;
-  max-width: 539px;
 }
 .thirteenth-block__img {
   margin: 25px 55px 32px 55px;
@@ -549,12 +522,11 @@
   padding: 0 20px;
   color: #FFF;
   text-align: center;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 600;
-  line-height: 60px;
   cursor: pointer;
   border: 0;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 60px;
 }
 
 .fourteenth-block {
@@ -567,33 +539,30 @@
 .fourteenth-block__heading {
   color: #000;
   text-align: center;
-  font-size: 65px;
-  font-style: normal;
-  font-weight: 600;
-  line-height: 75px;
   max-width: 790px;
   margin-bottom: 29px;
   font-family: GraphikLCG-Semibold, sans-serif;
+  font-size: 65px;
+  font-weight: 600;
+  line-height: 75px;
 }
 .fourteenth-block__span {
   color: #000;
   text-align: center;
+  margin-bottom: 54px;
   font-size: 25px;
-  font-style: normal;
   font-weight: 400;
   line-height: 30px;
-  margin-bottom: 54px;
 }
 .fourteenth-block__btn {
   background: #000;
   padding: 0 40px;
   color: #FFF;
   text-align: center;
+  cursor: pointer;
   font-size: 17px;
-  font-style: normal;
   font-weight: 600;
   line-height: 60px;
-  cursor: pointer;
 }
 
 .footer {
@@ -615,11 +584,11 @@
   gap: 15px;
 }
 .footer__top__menu-box__heading {
+  margin-bottom: 6px;
+  font-family: GraphikLCG-Semibold, sans-serif;
   font-size: 20px;
   font-weight: 600;
   line-height: 25px;
-  margin-bottom: 6px;
-  font-family: GraphikLCG-Semibold, sans-serif;
 }
 .footer__top__menu-box__item {
   font-size: 15px;
@@ -641,10 +610,10 @@
 }
 .footer__top__left__heading {
   margin-bottom: 28px;
+  font-family: GraphikLCG-Semibold, sans-serif;
   font-size: 40px;
   font-weight: 600;
   line-height: 50px;
-  font-family: GraphikLCG-Semibold, sans-serif;
 }
 .footer__bottom {
   display: grid;
